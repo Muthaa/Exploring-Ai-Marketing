@@ -18,7 +18,8 @@ Phase Two
 ### Design & Marketing Content
 #### Posts
 ![760502f9-c8f5-4618-8708-3c5e08497d11](https://github.com/user-attachments/assets/7a5c2ea8-579f-40aa-923c-763405075583)
-![ChatGPT Image Jun 4, 2025, 03_32_12 PM](https://github.com/user-attachments/assets/fbfd6423-ee14-404e-b581-1abd0d866f84)
+![ChatGPT Image Jun 4, 2025, 03_32_12 PM](https://github.com/user-attachments/assets/fbfd6423-ee14-404e-b581-1abd0d866f84) 
+![ChatGPT Image Jun 4, 2025, 03_34_26 PM](https://github.com/user-attachments/assets/6c3959c8-c715-4902-a80b-50d99135a9c5)
 
 #### Blog Post
 🧠 Why Your Brand Needs AI: The Future of Identity in a Noisy World
