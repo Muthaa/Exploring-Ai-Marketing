@@ -3,7 +3,7 @@
 ## Name: Neurvane
 
 ### 🔖 Tagline: Branding nirvana. The Signal in the Noise.
-![Modern Wordmark Logo for Neurvane_1](https://github.com/user-attachments/assets/8abb7ac5-5223-43ac-9431-7c35aa7edb36)
+![Modern Wordmark Logo for Neurvane_1](https://github.com/user-attachments/assets/f9ffcd88-9f37-467a-a44e-114ea6ac3772)
 
 ## 📘 Neurvane: Brand Story
 Welcome to Neurvane, where branding is no longer guesswork — it’s computational creativity tuned for cultural impact.
