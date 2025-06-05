@@ -17,9 +17,13 @@ Neurvane is not for the safe. It’s for the signal-makers, the edge-runners, th
 Phase Two
 ### Design & Marketing Content
 #### Posts
-![760502f9-c8f5-4618-8708-3c5e08497d11](https://github.com/user-attachments/assets/7a5c2ea8-579f-40aa-923c-763405075583)
-![ChatGPT Image Jun 4, 2025, 03_32_12 PM](https://github.com/user-attachments/assets/fbfd6423-ee14-404e-b581-1abd0d866f84) 
-![ChatGPT Image Jun 4, 2025, 03_34_26 PM](https://github.com/user-attachments/assets/6c3959c8-c715-4902-a80b-50d99135a9c5)
+![760502f9-c8f5-4618-8708-3c5e08497d11_1](https://github.com/user-attachments/assets/c6fa2616-4d8d-4562-9a26-a6924e4f1cc0)
+![ChatGPT Image Jun 4, 2025, 03_32_12 PM_1](https://github.com/user-attachments/assets/dfcf54ce-c70c-4701-93d4-9007a645a6b6)
+![ChatGPT Image Jun 4, 2025, 03_34_26 PM_1](https://github.com/user-attachments/assets/b5d9e9c2-905c-4bf7-b184-6a031c9364ef)
+![ChatGPT Image Jun 5, 2025, 08_53_19 AM_1](https://github.com/user-attachments/assets/3adf3db0-388d-44ae-b4d6-74e3a162ffb5)
+![ChatGPT Image Jun 5, 2025, 08_54_32 AM_1](https://github.com/user-attachments/assets/830c1eb6-697a-4d4e-a40c-ea9c8d2b4528)
+![ChatGPT Image Jun 5, 2025, 08_56_15 AM_1](https://github.com/user-attachments/assets/bf19e3eb-479e-4d03-bea0-62aac4efd980)
+
 
 #### Blog Post
 🧠 Why Your Brand Needs AI: The Future of Identity in a Noisy World
